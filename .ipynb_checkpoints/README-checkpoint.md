@@ -35,9 +35,9 @@ Identify key features of fraudulent insurance claims in the healthcare sector an
 
 ## Project Structure
 
-1. *preparing.ipynb* — EDA notebook for identifying key fraud indicators. Reflects the data exploration stage in the order the dataset was studied.
+1. *EDA.ipynb* — EDA notebook for identifying key fraud indicators. Reflects the data exploration stage in the order the dataset was studied.
 2. *DecisionTree.ipynb* — notebook with Decision Tree model results.
-3. *RndmForest.ipynb* — notebook with Random Forest model results.
+3. *RandomForest.ipynb* — notebook with Random Forest model results.
 4. *sys.ipynb* — notebook for installing required libraries.
 
 ## Conclusions
@@ -86,9 +86,9 @@ Identify key features of fraudulent insurance claims in the healthcare sector an
 
 ## Структура проекта
 
-1. *preparing.ipynb* — ноутбук с исследованием данных для выявления основных признаков мошеннических операций. Отражает этап работы с данными перед их использованием. Здесь сохранён код в том порядке, в котором шло изучение датасета.
+1. *EDA.ipynb* — ноутбук с исследованием данных для выявления основных признаков мошеннических операций. Отражает этап работы с данными перед их использованием. Здесь сохранён код в том порядке, в котором шло изучение датасета.
 2. *DecisionTree.ipynb* — ноутбук с результатом предсказания модели DecisionTree.
-3. *RndmForest.ipynb* — ноутбук с результатом предсказания модели RandomForest.
+3. *RandomForest.ipynb* — ноутбук с результатом предсказания модели RandomForest.
 4. *sys.ipynb* — ноутбук для установки в окружение недостающих библиотек.
 
 ## Выводы
